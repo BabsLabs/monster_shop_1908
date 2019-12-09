@@ -120,7 +120,7 @@ To install this application on your local machine follow these instructions in y
 
 ## Database / Schema Diagram
 
-<img src="https://github.com/BabsLabs/monster_shop_1908-1/blob/master/app/assets/images/monster-shoppe-herokuapp-merchant-dashboard.png?raw=true"
+<img src="https://github.com/BabsLabs/monster_shop_1908-1/blob/master/app/assets/images/Monster%20Shop%20Database%20Schema.png?raw=true"
      alt="Cart Show Page"
      style="float: left; margin-right: 10px;" />
 
