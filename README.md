@@ -13,6 +13,7 @@ The purpose of this project is to use Object Oriented Programing and Test Driven
 To install this application on your local machine follow these instructions in your terminal;
 
 1. Clone down the repo into a directory of your choice  `git clone https://github.com/BabsLabs/monster_shop_1908-1.git`
+1. Change into project directory `cd monster_shop_1908-1`
 1. Install all required gems `bundle install`
 1. Create database and migrate `rails db:create`,`rails db:migrate`.
 1. Start local server `rails s`
